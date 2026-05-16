@@ -1,5 +1,13 @@
 ## Hi there 👋
+<h1>안녕하세요. 시스템 엔지니어로 근무중입니다.</h1>
+<p>
+IDC 환경에서 Linux 및 Windows 서버와 네트워크 인프라 운영 업무를 맡아왔습니다.
+서버 구축 및 운영, 네트워크 장비 관리 등 데이터센터 전반적인 인프라 관리 경험을 보유하고 있습니다.
 
+현재는 B200 GPU 사업에 참여하여 GPU DC 내 GPU 서버 및 인프라 운영 관리를 담당하고 있으며, 실시간 모니터링을 통한 장애 감지 및 대응 업무를 수행하고 있습니다.
+
+또한 고객 기술지원 업무를 통해 원활한 커뮤니케이션 스킬을 배워왔으며, 운영 현황 및 장애 처리 내용을 공유하며 협업 기반의 업무 수행 능력을 갖추고 있습니다.
+</p>
 <!--
 **jkolok02/jkolok02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
